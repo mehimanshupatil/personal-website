@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://himanshupatil.dev/sitemap.xml
