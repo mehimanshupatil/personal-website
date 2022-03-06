@@ -38,7 +38,7 @@ module.exports = {
           },
           {
             name: `Instagram`,
-            url: `https://instagram.com/mehimanshupatil`,
+            url: `https://instagram.com/me.himanshupatil`,
           },
           {
             name: `Github`,
@@ -46,7 +46,7 @@ module.exports = {
           },
           {
             name: `Linkedin`,
-            url: `https://linkedin.com/mehimanshupatil`,
+            url: `https://linkedin.com/in/mehimanshupatil`,
           },
         ],
       },
