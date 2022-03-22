@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: himanshupatil.dev
-Token: a12d1b7f96d24c498d841e8617a3341c78e71fedd728c275488d1f8bf2b3a4d8
